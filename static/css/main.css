@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(to right, orange, red);
+}
+
+#f1-table {
+    background-color: black;
+    padding-left: ;
+}
+
+#f1-table thead th {
+    color: white;
+    font-size: 10pt;
+}
+
+#f1-table tbody td {
+    color: white;
+    font-size: 10pt;
+}
+
+.col-md-12 {
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.button {
+    background-color: salmon;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 12px 32px;
+    margin: 5px;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: rgb(255, 118, 118);
+    color: white;
+}
+
+#first-name {
+    padding: 12px 32px;
+    border: none;
+    margin: 5px;
+    width: 100%;
+}
+
+#last-name {
+    padding: 12px 32px;
+    border: none;
+    margin: 5px;
+    width: 100%;
+}
