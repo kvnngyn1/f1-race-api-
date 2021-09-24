@@ -1,3 +1,7 @@
+// Reference!
+// NOT going into my html
+
+
 console.log( document.getElementsByTagName('h1')[1].innerHTML = 'New Text Alert!!') 
 
 console.log( document.getElementsByTagName('h1'))
